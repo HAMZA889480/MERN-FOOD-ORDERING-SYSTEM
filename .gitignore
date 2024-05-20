@@ -1,0 +1,4 @@
+/Back_End/config.env/
+/Back_End/node_modules/
+/Front_End/node_modules/
+/Front_End/.env/
